@@ -878,12 +878,12 @@
     <table:table-column table:style-name="Table2.A"/>
     <table:table-row>
      <table:table-cell table:style-name="Table2.A1" office:value-type="string">
-      <text:p text:style-name="Headline">Accomplished Software Engineer with excellent problem solving skills</text:p>
+      <text:p text:style-name="Grey">Accomplished Software Engineer with excellent problem solving skills</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list6526240005037134629" text:style-name="L1">
+   <text:list xml:id="list4709571216801656758" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P3">Broadly experienced in a variety of programming languages</text:p>
     </text:list-item>
@@ -920,25 +920,25 @@
     <table:table-column table:style-name="Table10.G"/>
     <table:table-row table:style-name="Table10.1">
      <table:table-cell table:style-name="Table10.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Skill</text:p>
+      <text:p text:style-name="Grey">Skill</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.B1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Years Experience</text:p>
+      <text:p text:style-name="Grey">Years Experience</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.C1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Last used professionally</text:p>
+      <text:p text:style-name="Grey">Last used professionally</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.D1" office:value-type="string">
       <text:p text:style-name="Table_20_Contents"/>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.E1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Skill</text:p>
+      <text:p text:style-name="Grey">Skill</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.B1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Years Experience</text:p>
+      <text:p text:style-name="Grey">Years Experience</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table10.G1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Last used professionally</text:p>
+      <text:p text:style-name="Grey">Last used professionally</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
@@ -1250,21 +1250,21 @@
     <table:table-column table:style-name="Table6.D"/>
     <table:table-row>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Nov 2011</text:p>
+      <text:p text:style-name="Grey">Nov 2011</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Yahoo!</text:p>
+      <text:p text:style-name="Grey">Yahoo!</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="http://www.yahoo.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.yahoo.com</text:a></text:p>
+      <text:p text:style-name="Grey"><text:a xlink:type="simple" xlink:href="http://www.yahoo.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.yahoo.com</text:a></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table6.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Present</text:p>
+      <text:p text:style-name="Grey">Present</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table6.A1" table:number-columns-spanned="4" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Senior QA Engineer for the targeted advertising team</text:p>
+      <text:p text:style-name="Grey">Senior QA Engineer for the targeted advertising team</text:p>
      </table:table-cell>
      <table:covered-table-cell/>
      <table:covered-table-cell/>
@@ -1272,7 +1272,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"><text:soft-page-break/></text:p>
-   <text:list xml:id="list4605194029264730237" text:style-name="L2">
+   <text:list xml:id="list396878336827361002" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P4">Technology: Java 1.6/1.7, TestNG, MySql, Mockito, Maven, Jenkins, Eclipse, Red Hat Enterprise Linux, Oozie (Workflow Scheduler for Hadoop)</text:p>
     </text:list-item>
@@ -1293,22 +1293,22 @@
     <table:table-column table:style-name="Table3.D"/>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Nov 2006</text:p>
+      <text:p text:style-name="Grey">Nov 2006</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Thomson Reuters</text:p>
-      <text:p text:style-name="Table_20_Contents">(Sweet &amp; Maxwell)</text:p>
+      <text:p text:style-name="Grey">Thomson Reuters</text:p>
+      <text:p text:style-name="Grey">(Sweet &amp; Maxwell)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="http://www.sweetandmaxwell.co.uk/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.sweetandmaxwell.co.uk/</text:a></text:p>
+      <text:p text:style-name="Grey"><text:a xlink:type="simple" xlink:href="http://www.sweetandmaxwell.co.uk/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.sweetandmaxwell.co.uk/</text:a></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table3.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Nov 2011</text:p>
+      <text:p text:style-name="Grey">Nov 2011</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table3.A1" table:number-columns-spanned="4" office:value-type="string">
-      <text:p text:style-name="Standard">Senior Software Developer for a legal publisher of books and online information services</text:p>
+      <text:p text:style-name="Grey">Senior Software Developer for a legal publisher of books and online information services</text:p>
      </table:table-cell>
      <table:covered-table-cell/>
      <table:covered-table-cell/>
@@ -1316,7 +1316,7 @@
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list223360240735345" text:continue-numbering="true" text:style-name="L2">
+   <text:list xml:id="list155026773053008" text:continue-numbering="true" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P4">Technology: Java 1.6, Spring 3, Hibernate 3, Junit 4, XML, XSL, Velocity, Oracle, HTML 4, CSS, JavaScript, Ajax, jQuery, Mockito, Struts, Ant, Ivy, Eclipse, Linux servers running Tomcat 6</text:p>
     </text:list-item>
@@ -1330,7 +1330,7 @@
      <text:p text:style-name="P4">Assist other developers, including reviewing code, and providing quick and easy to use project set-up scripts</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list8242962373797017191" text:style-name="L3">
+   <text:list xml:id="list3363177478292207678" text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P5">Improve use of Continuous Integration (Hudson/Jenkins)</text:p>
     </text:list-item>
@@ -1338,7 +1338,7 @@
      <text:p text:style-name="P5">Enhance test coverage using jUnit and Mokito testing frameworks</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list223361216840735" text:continue-list="list223360240735345" text:style-name="L2">
+   <text:list xml:id="list155025786381292" text:continue-list="list155026773053008" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P4">Play a leading role in migrating to Spring for the service layer, and from XSLT to the Velocity framework for the view layer</text:p>
     </text:list-item>
@@ -1351,33 +1351,33 @@
     <table:table-column table:style-name="Table7.D"/>
     <table:table-row>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Sep 2004</text:p>
+      <text:p text:style-name="Grey">Sep 2004</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">CSW Group Limited</text:p>
+      <text:p text:style-name="Grey">CSW Group Limited</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">(in administration since Oct 2008)</text:p>
+      <text:p text:style-name="Grey">(in administration since Oct 2008)</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table7.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Nov 2006</text:p>
+      <text:p text:style-name="Grey">Nov 2006</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table7.A1" table:number-columns-spanned="4" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Software Engineer for a provider for the NHS program for IT</text:p>
+      <text:p text:style-name="Grey">Software Engineer for a provider for the NHS program for IT</text:p>
      </table:table-cell>
      <table:covered-table-cell/>
      <table:covered-table-cell/>
      <table:covered-table-cell/>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list4007122001379917604" text:style-name="L4">
+   <text:list xml:id="list2501339893664018574" text:style-name="L4">
     <text:list-header>
      <text:p text:style-name="P6"/>
     </text:list-header>
    </text:list>
-   <text:list xml:id="list223360067808561" text:continue-list="list223361216840735" text:style-name="L2">
+   <text:list xml:id="list155026549543623" text:continue-list="list155025786381292" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P4">Technology: Java, XML, XSL, XSL-FO, Oracle, HTML, CSS, Struts, Ant, <text:s/>Eclipse, Linux servers running BEA Weblogic</text:p>
     </text:list-item>
@@ -1388,7 +1388,7 @@
      <text:p text:style-name="P4">Wrote XSL and XSL-FO stylesheets to transform xml source data for html and pdf outputs for CSW&apos;s Knowledge Management System</text:p>
     </text:list-item>
    </text:list>
-   <text:list xml:id="list223360856343437" text:continue-list="list4007122001379917604" text:style-name="L4">
+   <text:list xml:id="list155025906658139" text:continue-list="list2501339893664018574" text:style-name="L4">
     <text:list-item>
      <text:p text:style-name="P6">Assisted delegates with XML/XSLT hands-on training at CSW&apos;s XML Summer School</text:p>
     </text:list-item>
@@ -1401,21 +1401,21 @@
     <table:table-column table:style-name="Table1.D"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Jan 2001</text:p>
+      <text:p text:style-name="Grey">Jan 2001</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Thomson Scientific</text:p>
+      <text:p text:style-name="Grey">Thomson Scientific</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="http://science.thomsonreuters.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://science.thomsonreuters.com/</text:a></text:p>
+      <text:p text:style-name="Grey"><text:a xlink:type="simple" xlink:href="http://science.thomsonreuters.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://science.thomsonreuters.com/</text:a></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Mar 2004</text:p>
+      <text:p text:style-name="Grey">Mar 2004</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" table:number-columns-spanned="4" office:value-type="string">
-      <text:list xml:id="list223360722288673" text:continue-list="list223360067808561" text:style-name="L2">
+      <text:list xml:id="list155026267957643" text:continue-list="list155026549543623" text:style-name="L2">
        <text:list-header>
         <text:p text:style-name="P4">Analyst programmer for a leading provider of patent information for research, scientific discovery and innovation</text:p>
        </text:list-header>
@@ -1426,7 +1426,7 @@
      <table:covered-table-cell/>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list223360532575357" text:continue-numbering="true" text:style-name="L2">
+   <text:list xml:id="list155026373868858" text:continue-numbering="true" text:style-name="L2">
     <text:list-header>
      <text:p text:style-name="P4"/>
     </text:list-header>
@@ -1454,23 +1454,23 @@
     <table:table-column table:style-name="Table4.D"/>
     <table:table-row>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Dec 1997</text:p>
+      <text:p text:style-name="Grey">Dec 1997</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Crossflight Limited</text:p>
+      <text:p text:style-name="Grey">Crossflight Limited</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><text:a xlink:type="simple" xlink:href="http://www.crossflight.co.uk/" office:name="http://www.crossflight.co.uk/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.crossflight.co.uk/</text:a></text:p>
+      <text:p text:style-name="Grey"><text:a xlink:type="simple" xlink:href="http://www.crossflight.co.uk/" office:name="http://www.crossflight.co.uk/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">http://www.crossflight.co.uk/</text:a></text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table4.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Jan 2001</text:p>
+      <text:p text:style-name="Grey">Jan 2001</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row>
      <table:table-cell table:style-name="Table4.A1" table:number-columns-spanned="4" office:value-type="string">
-      <text:list xml:id="list223360342779787" text:continue-numbering="true" text:style-name="L2">
+      <text:list xml:id="list155027164916015" text:continue-numbering="true" text:style-name="L2">
        <text:list-header>
-        <text:p text:style-name="P4">Programmer for a courier company which takes an innovative approach to IT, providing bespoke software solutions to customers to add value</text:p>
+        <text:p text:style-name="Grey">Programmer for a courier company which takes an innovative approach to IT, providing bespoke software solutions to customers to add value</text:p>
        </text:list-header>
       </text:list>
      </table:table-cell>
@@ -1479,7 +1479,7 @@
      <table:covered-table-cell/>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list223360656176003" text:continue-numbering="true" text:style-name="L2">
+   <text:list xml:id="list155026734814294" text:continue-numbering="true" text:style-name="L2">
     <text:list-header>
      <text:p text:style-name="P4"><text:soft-page-break/></text:p>
     </text:list-header>
@@ -1505,17 +1505,17 @@
     <table:table-column table:style-name="Table5.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Oct 1986</text:p>
+      <text:p text:style-name="Grey">Oct 1986</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Various</text:p>
+      <text:p text:style-name="Grey">Various</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table5.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Dec 1997</text:p>
+      <text:p text:style-name="Grey">Dec 1997</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:list xml:id="list223361601555518" text:continue-numbering="true" text:style-name="L2">
+   <text:list xml:id="list155026013666851" text:continue-numbering="true" text:style-name="L2">
     <text:list-header>
      <text:p text:style-name="P4"/>
     </text:list-header>
@@ -1530,18 +1530,18 @@
     <table:table-column table:style-name="Table8.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Sep 1983</text:p>
+      <text:p text:style-name="Grey">Sep 1983</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Reigate College, Reigate, Surrey </text:p>
+      <text:p text:style-name="Grey">Reigate College, Reigate, Surrey </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table8.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Jun 1985</text:p>
+      <text:p text:style-name="Grey">Jun 1985</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list1133879323785896430" text:style-name="L5">
+   <text:list xml:id="list7186392805750370333" text:style-name="L5">
     <text:list-item>
      <text:p text:style-name="P7">Three A levels (Mathematics, Physics Chemistry)</text:p>
     </text:list-item>
@@ -1553,18 +1553,18 @@
     <table:table-column table:style-name="Table9.C"/>
     <table:table-row>
      <table:table-cell table:style-name="Table9.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Sep 1979</text:p>
+      <text:p text:style-name="Grey">Sep 1979</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Reigate Grammar School, Reigate, Surrey </text:p>
+      <text:p text:style-name="Grey">Reigate Grammar School, Reigate, Surrey </text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table9.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents">Jun 1983</text:p>
+      <text:p text:style-name="Grey">Jun 1983</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="Standard"/>
-   <text:list xml:id="list1608544153885984148" text:style-name="L6">
+   <text:list xml:id="list3828826674815145122" text:style-name="L6">
     <text:list-item>
      <text:p text:style-name="P8">Seven O levels</text:p>
     </text:list-item>

@@ -128,6 +128,12 @@
    <style:paragraph-properties fo:margin-top="0.247cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#808080" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="Grey" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#e6e6e6" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
+   <style:paragraph-properties fo:background-color="#e6e6e6">
+    <style:background-image/>
+   </style:paragraph-properties>
+  </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol"/>
   </style:style>
@@ -217,7 +223,7 @@
   </style:style>
   <style:page-layout style:name="Mpm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="1.27cm" fo:margin-left="1.693cm" fo:margin-right="1.693cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
-    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style>
     <style:header-footer-properties fo:min-height="0.314cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.212cm" style:dynamic-spacing="false"/>
